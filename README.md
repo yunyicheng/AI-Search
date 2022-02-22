@@ -1,9 +1,7 @@
 # AI-Sokoban-Solver
 This is a course project from CSC384: Intro to AI at University of Toronto. In this project, I implemented an AI Sokoban solver which utilizes search strategies such as heurustic search, weighted A*, greedy best-first search. More details are available in project handout.
 
-####################
-# Assignment 1
-####################
+# Mark Breakdown for Assignment 1
 
 Overall: 80.0/100
 ====================
@@ -42,6 +40,3 @@ Test Case: [function=test_weighted_astar]	[10/10]
 Weighted a-star expanded more nodes as weights decreased 5 of 5 times
 Of the 20 runs over 5 problems, 3 solutions were found with weighted a star in the time allotted.
 Score is 10 of 10.
-
-
-*************************************
