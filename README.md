@@ -1,5 +1,5 @@
 # AI-Sokoban-Solver
-This is a course project from CSC384: Intro to AI at University of Toronto. In this project, I implemented an AI Sokoban solver which utilizes search strategies such as heurustic search, weighted A*, greedy best-first search. More details are available in project handout.
+This is a course project from CSC384: Intro to AI at University of Toronto. In this project, I implemented an AI Sokoban solver which utilizes search strategies such as heurustic search, weighted A*, greedy best-first search.
 ## Introduction
 The goal of this assignment will be to implement a working solver for the puzzle game Sokoban. Sokoban is a puzzle game in which a warehouse robot must push boxes into storage spaces. The rules hold that only one box can be moved at a time, that boxes can only be pushed by robots and not pulled, and that neither robots nor boxes can pass through obstacles (walls or other boxes). In addition, robots cannot push more than one box, i.e., if there are two boxes in a row, they cannot push them. The game is over when all the boxes are in their storage spots.
 
